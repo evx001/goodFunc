@@ -7,11 +7,17 @@
 //
 
 #include <stdio.h>
-
+void scope_me(); // declaration
 int main()
 {
+    // func must be called in main to have an effect 
+    scope_me();
 
- 
     return 0;
 }
 
+// implementation
+void scope_me() {
+    char bravo[] ="bravo";
+    printf("%s\n",bravo);
+}
