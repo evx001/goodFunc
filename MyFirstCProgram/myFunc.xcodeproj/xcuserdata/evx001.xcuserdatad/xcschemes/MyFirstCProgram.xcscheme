@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "31B705C717F4734400CACEA7"
-               BuildableName = "MyFirstCProgram"
+               BuildableName = "myFunc"
                BlueprintName = "myFunc"
                ReferencedContainer = "container:myFunc.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "31B705C717F4734400CACEA7"
-            BuildableName = "MyFirstCProgram"
+            BuildableName = "myFunc"
             BlueprintName = "myFunc"
             ReferencedContainer = "container:myFunc.xcodeproj">
          </BuildableReference>
@@ -52,7 +52,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "31B705C717F4734400CACEA7"
-            BuildableName = "MyFirstCProgram"
+            BuildableName = "myFunc"
             BlueprintName = "myFunc"
             ReferencedContainer = "container:myFunc.xcodeproj">
          </BuildableReference>
@@ -70,7 +70,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "31B705C717F4734400CACEA7"
-            BuildableName = "MyFirstCProgram"
+            BuildableName = "myFunc"
             BlueprintName = "myFunc"
             ReferencedContainer = "container:myFunc.xcodeproj">
          </BuildableReference>

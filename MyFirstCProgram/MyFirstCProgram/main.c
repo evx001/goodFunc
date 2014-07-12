@@ -10,7 +10,7 @@
 void scope_me(); // declaration
 int main()
 {
-    // func must be called in main to have an effect 
+    // func must be called in main to have an effect
     scope_me();
 
     return 0;
